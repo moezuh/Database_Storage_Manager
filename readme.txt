@@ -16,9 +16,6 @@ Storage Manager is capable of creating, opening and closing a file including som
 It can be used to Read blocks from a file on to the disk such as reading first block, previous block, current block, last block and next block.
 And also can write blocks from memory to a file on disk. This storage manager deals with fixed size blocks.
 
-To visit the implementation of storage manager:
-https://bitbucket.org/shek21/group7/src/master/
-
 TECHNOLOGIES
 --------------
 Language used to implement storage manager is 'C'
